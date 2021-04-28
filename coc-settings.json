@@ -1,0 +1,6 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": ["json", "css", "scss", "javascript", "typescript", "typescriptreact", "javascriptreact", "typescript.tsx"],
+  "eslint.filetypes": ["javascript", "typescript", "typescriptreact", "javascriptreact", "typescript.tsx"],
+  "emmet.includeLanguages": {"javascript":"javascriptreact", "typescript": "typescriptreact"},
+  "coc.preferences.diagnostic.virtualText": true,
+}
